@@ -1,0 +1,9 @@
+venv/
+.vscode/
+__pycache__/
+app/__pycache__/
+ngrok
+.DS_Store
+app/.DS_Store
+solr/
+data/
