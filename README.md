@@ -144,7 +144,7 @@ chatbot.
 ## Landing Page
 ![This is an image](https://github.com/abhinine4/int_Elligent_chatbot/blob/main/images/Screenshot%202022-12-04%20at%208.10.54%20PM.png)
 
-##Cross Topic chats
+## Cross Topic chats
 ![This is an image](https://github.com/abhinine4/int_Elligent_chatbot/blob/main/images/Screenshot%202022-12-04%20at%208.16.40%20PM.png)
 
 ## Analytics
